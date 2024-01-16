@@ -18,9 +18,9 @@ global.owner = [
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['923184070915', '94789481495', '923184474176','33757054415','233208179431'] 
-global.prems = ['923184070915', '233208179431', '94789481495', '918360234087','33757054415']
-global.allowed = ['923184070915', '233208179431', '94789481495', '918360234087','33757054415']
+global.mods = ['254750575934', '94789481495', '923184474176','33757054415','233208179431'] 
+global.prems = ['254750575934', '233208179431', '94789481495', '918360234087','33757054415']
+global.allowed = ['254750575934', '233208179431', '94789481495', '918360234087','33757054415']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -57,8 +57,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'XLICON-V2'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
+global.packname = '𝓐𝓷𝓲𝓶𝓮' 
+global.author = '𝕄𝕒𝕕𝕖 𝕓𝕪 ℤ𝕒𝕔𝕜' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
