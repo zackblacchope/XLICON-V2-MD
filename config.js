@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  [254750575934', 'Zack', true]
+  ['254750575934', 'Zack', true],
   
 ] //Number of owners
 
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'SASUKE'
 global.premium = 'true'
 global.packname = '𝓐𝓷𝓲𝓶𝓮' 
 global.author = '𝕄𝕒𝕕𝕖 𝕓𝕪 ℤ𝕒𝕔𝕜' 
@@ -64,7 +64,7 @@ global.fglog = 'XLICON.jpg'
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
 
-global.wait = '*🕣 _XLICON IS LODIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _SASUKE IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
